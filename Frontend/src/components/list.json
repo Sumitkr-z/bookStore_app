@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "name": "Java Basics",
+    "title": "Mastering Java Fundamentals",
+    "price": 0,
+    "category": "Study",
+    "image_url": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1732776254~exp=1732779854~hmac=aaf61fc2fc9dd59fd65ffce1de0499b9e031e284b53322b125e9a560e4dd2012&w=740"
+  },
+  {
+    "id": 2,
+    "name": "Chronicles of Laughter",
+    "title": "Jokes Unbound",
+    "price": 100,
+    "category": "Comedy",
+    "image_url": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1732776254~exp=1732779854~hmac=aaf61fc2fc9dd59fd65ffce1de0499b9e031e284b53322b125e9a560e4dd2012&w=740"
+  },
+  {
+    "id": 3,
+    "name": "MERN Stack Mastery",
+    "title": "Building Web Apps with MERN Stack",
+    "price": 0,
+    "category": "Study",
+    "image_url": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1732776254~exp=1732779854~hmac=aaf61fc2fc9dd59fd65ffce1de0499b9e031e284b53322b125e9a560e4dd2012&w=740"
+  },
+  {
+    "id": 4,
+    "name": "JavaScript Essentials",
+    "title": "Understanding JavaScript for Beginners",
+    "price": 0,
+    "category": "Study",
+    "image_url": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1732776254~exp=1732779854~hmac=aaf61fc2fc9dd59fd65ffce1de0499b9e031e284b53322b125e9a560e4dd2012&w=740"
+  },
+  {
+    "id": 5,
+    "name": "ReactJS Essentials",
+    "title": "ReactJS: A Comprehensive Guide",
+    "price": 0,
+    "category": "Study",
+    "image_url": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1732776254~exp=1732779854~hmac=aaf61fc2fc9dd59fd65ffce1de0499b9e031e284b53322b125e9a560e4dd2012&w=740"
+  },
+  {
+    "id": 6,
+    "name": "Node.js Essentials",
+    "title": "Node.js for Beginners: Server-Side Programming",
+    "price": 0,
+    "category": "Study",
+    "image_url": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1732776254~exp=1732779854~hmac=aaf61fc2fc9dd59fd65ffce1de0499b9e031e284b53322b125e9a560e4dd2012&w=740"
+  },
+  {
+    "id": 7,
+    "name": "Laugh Lines",
+    "title": "Comedy of Errors",
+    "price": 200,
+    "category": "Comedy",
+    "image_url": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1732776254~exp=1732779854~hmac=aaf61fc2fc9dd59fd65ffce1de0499b9e031e284b53322b125e9a560e4dd2012&w=740"
+  },
+  {
+    "id": 8,
+    "name": "Python Programming",
+    "title": "Learn Python the Easy Way",
+    "price": 0,
+    "category": "Study",
+    "image_url": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1732776254~exp=1732779854~hmac=aaf61fc2fc9dd59fd65ffce1de0499b9e031e284b53322b125e9a560e4dd2012&w=740"
+  },
+  {
+    "id": 9,
+    "name": "C++ Programming",
+    "title": "Mastering C++: From Beginner to Expert",
+    "price": 0,
+    "category": "Study",
+    "image_url": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1732776254~exp=1732779854~hmac=aaf61fc2fc9dd59fd65ffce1de0499b9e031e284b53322b125e9a560e4dd2012&w=740"
+  },
+  {
+    "id": 10,
+    "name": "Anime Odyssey",
+    "title": "Chronicles of the Brave",
+    "price": 200,
+    "category": "Anime",
+    "image_url": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1732776254~exp=1732779854~hmac=aaf61fc2fc9dd59fd65ffce1de0499b9e031e284b53322b125e9a560e4dd2012&w=740"
+  },
+  {
+    "id": 11,
+    "name": "Galactic Tales",
+    "title": "Voyage Beyond the Milky Way",
+    "price": 250,
+    "category": "Sci-Fi",
+    "image_url": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1732776254~exp=1732779854~hmac=aaf61fc2fc9dd59fd65ffce1de0499b9e031e284b53322b125e9a560e4dd2012&w=740"
+  }
+  
+]
